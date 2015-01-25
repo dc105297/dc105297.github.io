@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(http://fonts.googleapis.com/css?family=Raleway:200);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400);
 body{
 background-color: #DE5842
 }
@@ -48,6 +49,7 @@ font-weight:200;
 	background-color: #DE5842;
 	font-size: 20px;
 	text-align:center;
+	font-weight: 400;
 	-webkit-font-smoothing:antialiased;
 }
 .footer a{
