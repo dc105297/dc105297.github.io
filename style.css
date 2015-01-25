@@ -29,7 +29,7 @@ font-size: 70px;
 	color: #BFE1BF;
 	padding-right: 10px;
 }
-.social i :hover{
+.social a:hover{
 	color: #FCD059;
 }
 .social{
