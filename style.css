@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:200);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
 body{
 background-color: #DE5842
 }
@@ -25,6 +25,7 @@ font-family: 'Raleway', sans-serif;
 color: white;
 text-align: center;
 font-size: 70px;
+font-weight:200;
 -webkit-font-smoothing:antialiased;
 
 }
@@ -48,7 +49,6 @@ font-size: 70px;
 	font-size: 20px;
 	text-align:center;
 	-webkit-font-smoothing:antialiased;
-	font-style: bold;
 }
 .footer a{
 	color: #BFE1BF;
