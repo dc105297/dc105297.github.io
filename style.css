@@ -12,5 +12,6 @@ padding-bottom: 500px;
  -webkit-border-radius: 100px;
  -moz-border-radius: 100px;
  border: 2px solid #EDEDEA;
- text-align: center;
+ width: 50%;
+ margin: 0 auto;
 }
