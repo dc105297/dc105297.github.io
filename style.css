@@ -42,3 +42,9 @@ font-size: 70px;
 	width:100%;
 	background-color: #DE5842;
 }
+.footer a{
+	color: #BFE1BF;
+}
+.footer a:hover{
+	color: #FCD059;
+}
