@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Play>
-     http://davechason.com/tooshort.mp3
+     http://s3-us-west-2.amazonaws.com/davechasontwilio/tooshort.mp3
     </Play>
 </Response>
